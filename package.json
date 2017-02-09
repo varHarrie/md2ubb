@@ -1,6 +1,6 @@
 {
   "name": "md2ubb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple script for conversion from markdown to ubb.",
   "main": "lib/convert.js",
   "bin": {
